@@ -4,6 +4,8 @@ Hi Team,
 
 I'm not very familiar with TypeScript as my experience has mostly been with JavaScript. While I don't know all the concepts of TypeScript, I gave my best effort to create the Todo app. You can check the Netlify hosted URL to evaluate its performance. I used local storage to store and display the todo data. I'm committed to learning TypeScript if it's required for the project.
 
+Netlify URL: https://to-do-list-vite-react.netlify.app/
+
 Thank you.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
